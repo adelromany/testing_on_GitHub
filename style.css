@@ -29,7 +29,7 @@ h6 {
 }
 p {
   font-size: 16px;
-  color: #465b52;
+  color: #6d7772;
   margin: 15px 0 20px 0;
 }
 .section-p1 {
@@ -52,7 +52,7 @@ button.normal {
   transition: 0.2s;
 }
 button.normal:hover {
-  background-color: #088178;
+  background-color: #168108;
   color: #fff;
 }
 body {
@@ -114,7 +114,7 @@ body {
   content: "";
   width: 30%;
   height: 2px;
-  background: #088178;
+  background: #081281;
   position: absolute;
   bottom: -4px;
   left: 20px;
